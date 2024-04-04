@@ -27,7 +27,7 @@ To use the Small Project repository:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/small-project.git
+   (https://github.com/AyanSrivastava11/Small-Projects.git )
     ```
 
 2. Navigate to the project directory:
